@@ -7,9 +7,8 @@ Files: src/main/java folder have two packages:
 package 1: com.netcore.commonUtilities have 
 1.BaseClass: for choosing the browser, url etc., before running the script. 
 2.FileUtils: utilities methods for accessing  properties file.
-3. listenerImplementation:  for listener Implementation.
-4. JavaUtils: utilities methods of java.
-5. WebdriverUtils: utilities methods of webdriver.
+3.JavaUtils: utilities methods of java.
+4.WebdriverUtils: utilities methods of webdriver.
 
 package 2: com.netcore.objectRepository 1.FlipkartHomePage : It is a POM class and containing all the webelements and their getters methods.
 
