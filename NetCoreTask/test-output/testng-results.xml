@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26729" started-at="2021-02-21T08:12:04Z" finished-at="2021-02-21T08:12:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26729" started-at="2021-02-21T08:12:04Z" finished-at="2021-02-21T08:12:30Z">
+      <class name="com.netcore.testScripts.IphoneSearchTest">
+        <test-method status="PASS" signature="configBeforeClass()[pri:0, instance:com.netcore.testScripts.IphoneSearchTest@1f0f1111]" name="configBeforeClass" is-config="true" duration-ms="16021" started-at="2021-02-21T08:12:04Z" finished-at="2021-02-21T08:12:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeClass -->
+        <test-method status="PASS" signature="iPhoneSearchTest()[pri:0, instance:com.netcore.testScripts.IphoneSearchTest@1f0f1111]" name="iPhoneSearchTest" duration-ms="9291" started-at="2021-02-21T08:12:20Z" finished-at="2021-02-21T08:12:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iPhoneSearchTest -->
+        <test-method status="PASS" signature="configAfterClass()[pri:0, instance:com.netcore.testScripts.IphoneSearchTest@1f0f1111]" name="configAfterClass" is-config="true" duration-ms="780" started-at="2021-02-21T08:12:29Z" finished-at="2021-02-21T08:12:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterClass -->
+      </class> <!-- com.netcore.testScripts.IphoneSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
