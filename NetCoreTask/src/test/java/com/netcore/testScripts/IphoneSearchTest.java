@@ -52,7 +52,7 @@ public class IphoneSearchTest extends BaseClass
 		String[] header = {"Device Details", "Price", "Ratings"};
 		List<String[]> list = new ArrayList<>();
 		list.add(0,header);
-		for(int i=0;i<devicelist.size();i++)
+		for(int i=0;i<pricelist.size();i++)
 		{
 			int price = jLib.stringParseIntoIntPrice((pricelist.get(i).getText()));
 			int priceCap = jLib.stringParseIntoIntPrice(fLib.getPropertyKeyValue("priceLimit"));
@@ -63,7 +63,7 @@ public class IphoneSearchTest extends BaseClass
 			String[] row = {devicelist.get(i).getText(),
 							 pricelist.get(i).getText().substring(1),
 							 ratingslist.get(i).getText()};
-			list.add(i+1, row);
+			list.add(i, row);
 			}
 			
 		}
