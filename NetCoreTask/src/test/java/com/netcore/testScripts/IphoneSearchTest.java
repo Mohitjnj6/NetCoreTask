@@ -63,7 +63,7 @@ public class IphoneSearchTest extends BaseClass
 			String[] row = {devicelist.get(i).getText(),
 							 pricelist.get(i).getText().substring(1),
 							 ratingslist.get(i).getText()};
-			list.add(i, row);
+			list.add(i+1, row);
 			}
 			
 		}

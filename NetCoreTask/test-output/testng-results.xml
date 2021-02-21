@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="11953" started-at="2021-02-21T16:10:11Z" finished-at="2021-02-21T16:10:23Z">
+  <suite name="Default suite" duration-ms="15080" started-at="2021-02-21T16:17:03Z" finished-at="2021-02-21T16:17:18Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="11953" started-at="2021-02-21T16:10:11Z" finished-at="2021-02-21T16:10:23Z">
+    <test name="Default test" duration-ms="15080" started-at="2021-02-21T16:17:03Z" finished-at="2021-02-21T16:17:18Z">
       <class name="com.netcore.testScripts.IphoneSearchTest">
-        <test-method status="PASS" signature="configBeforeClass()[pri:0, instance:com.netcore.testScripts.IphoneSearchTest@1f0f1111]" name="configBeforeClass" is-config="true" duration-ms="7321" started-at="2021-02-21T16:10:11Z" finished-at="2021-02-21T16:10:19Z">
+        <test-method status="PASS" signature="configBeforeClass()[pri:0, instance:com.netcore.testScripts.IphoneSearchTest@1f0f1111]" name="configBeforeClass" is-config="true" duration-ms="9837" started-at="2021-02-21T16:17:03Z" finished-at="2021-02-21T16:17:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBeforeClass -->
-        <test-method status="PASS" signature="iPhoneSearchTest()[pri:0, instance:com.netcore.testScripts.IphoneSearchTest@1f0f1111]" name="iPhoneSearchTest" duration-ms="3894" started-at="2021-02-21T16:10:19Z" finished-at="2021-02-21T16:10:23Z">
+        <test-method status="PASS" signature="iPhoneSearchTest()[pri:0, instance:com.netcore.testScripts.IphoneSearchTest@1f0f1111]" name="iPhoneSearchTest" duration-ms="4065" started-at="2021-02-21T16:17:12Z" finished-at="2021-02-21T16:17:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- iPhoneSearchTest -->
-        <test-method status="PASS" signature="configAfterClass()[pri:0, instance:com.netcore.testScripts.IphoneSearchTest@1f0f1111]" name="configAfterClass" is-config="true" duration-ms="698" started-at="2021-02-21T16:10:23Z" finished-at="2021-02-21T16:10:23Z">
+        <test-method status="PASS" signature="configAfterClass()[pri:0, instance:com.netcore.testScripts.IphoneSearchTest@1f0f1111]" name="configAfterClass" is-config="true" duration-ms="1152" started-at="2021-02-21T16:17:17Z" finished-at="2021-02-21T16:17:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAfterClass -->
